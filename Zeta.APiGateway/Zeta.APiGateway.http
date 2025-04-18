@@ -1,0 +1,6 @@
+@Zeta.APiGateway_HostAddress = http://localhost:5178
+
+GET {{Zeta.APiGateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
