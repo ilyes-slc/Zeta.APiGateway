@@ -129,7 +129,7 @@ claimsIdentity.AddClaim(new Claim(ClaimTypes.Role, roleName));
   - Authentication requirements
   - Rate limiting options
   - Caching configuration
-  - QoS settings
+  - QoS setting
 
 
 
